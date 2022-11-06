@@ -1,0 +1,21 @@
+{
+  "locales": [
+    "en",
+    "ar",
+    "de",
+    "fr"
+  ],
+  "sourceLocale": "en",
+  "catalogs": [
+    {
+      "path": "<rootDir>/public/locales/{locale}/messages",
+      "include": [
+        "<rootDir>/components/",
+        "<rootDir>/pages/"
+      ],
+      "exclude": [
+        "**/node_modules/**"
+      ]
+    }
+  ]
+}

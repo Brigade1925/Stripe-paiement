@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .c-nav-Btn {
+    @apply md:inline-flex cursor-pointer hover:scale-105 transition-all duration-300 ease-out;
+  }
+}

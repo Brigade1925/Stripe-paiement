@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2022-10-09 13:48+0200\n"
+"Mime-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: de\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#: pages/index.tsx:7
+#~ msgid "greetings"
+#~ msgstr "Hallo"
+
+#: components/landing/herovideo/HeroVideo.tsx:18
+msgid "hero_vid_description"
+msgstr "Born In Germany Made For The Whole World"
+
+#: components/landing/herovideo/HeroVideo.tsx:15
+msgid "hero_vid_title"
+msgstr "Etoilistes Everywere"
+
+#: components/landing/about/About.tsx:49
+msgid "land_about_commit_desc"
+msgstr ""
+
+#: components/landing/about/About.tsx:46
+msgid "land_about_commit_title"
+msgstr ""
+
+#: components/landing/about/About.tsx:12
+msgid "land_about_desc"
+msgstr ""
+
+#: components/landing/about/About.tsx:38
+msgid "land_about_passion_desc"
+msgstr ""
+
+#: components/landing/about/About.tsx:35
+msgid "land_about_passion_title"
+msgstr ""
+
+#: components/landing/about/About.tsx:9
+msgid "land_about_title"
+msgstr ""
+
+#: components/landing/about/About.tsx:60
+msgid "land_about_together_desc"
+msgstr ""
+
+#: components/landing/about/About.tsx:57
+msgid "land_about_together_title"
+msgstr ""
+
+#: components/landing/recognition/Recognition.tsx:22
+msgid "land_recog_btn_down_img"
+msgstr "Herunterladen"
+
+#: components/landing/recognition/Recognition.tsx:29
+msgid "land_recog_btn_see_more"
+msgstr "mehr sehen"
+
+#: components/landing/recognition/Recognition.tsx:16
+msgid "land_recog_desc"
+msgstr "Der Verein Etolilistes In Deutschland ist von der Etoile Sportive de Sahel anerkannt"
+
+#: components/landing/recognition/Recognition.tsx:10
+msgid "land_recog_sticker"
+msgstr "Wichtig"
+
+#: components/landing/recognition/Recognition.tsx:13
+msgid "land_recog_titel"
+msgstr "Der Verein Etolilistes In Deutschland ist von der Etoile Sportive de Sahel anerkannt"
